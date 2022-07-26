@@ -1,4 +1,4 @@
-# blackhat
+2# blackhat
 
 HRHOMES:
 AIO SOCIAL OSINT
@@ -13,3 +13,7 @@ ANDROID DEBUG BRIDGE
 
 USEFULL WEB LINKS:
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+
+
