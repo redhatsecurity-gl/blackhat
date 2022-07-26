@@ -22,3 +22,5 @@ https://nitinpandey.in/ihunt/#
 
 
 https://cheatsheetseries.owasp.org/
+
+https://owasp.org/
