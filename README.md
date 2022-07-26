@@ -17,3 +17,5 @@ https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets
+
+https://nitinpandey.in/ihunt/#
