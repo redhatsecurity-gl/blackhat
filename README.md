@@ -15,9 +15,9 @@ DENIAL OF SERVICE TOOLKIT.
 ANDROID DEBUG BRIDGE
 
 `USEFULL WEB LINKS:`
-`https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/`
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
-`https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE`
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
