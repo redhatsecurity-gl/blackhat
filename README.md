@@ -12,3 +12,4 @@ ADB CHEAT SHEET:
 ANDROID DEBUG BRIDGE
 
 USEFULL WEB LINKS:
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
